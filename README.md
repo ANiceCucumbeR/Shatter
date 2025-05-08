@@ -5,4 +5,4 @@ Shatter is a basic script editor that will make your coding sessions easier. It 
 
 Shatter is currently available only in Windows. But dont worry, when we are going to get reviews from you - it will be available on all platforms.
 
-# BUILD: A0.1
+# BUILD: A0.2
