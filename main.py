@@ -5,7 +5,7 @@ import os
 from google import genai
 import plistlib
 
-API_KEY = "AIzaSyChOA1AM8hnGrIwkZgfy-ndXl5ciVbWSeg"
+API_KEY = "API_KEY"
 client = genai.Client(api_key=API_KEY)
 
 class ShatterCodeEditor:
